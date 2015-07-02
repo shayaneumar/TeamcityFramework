@@ -1,0 +1,4 @@
+C:\Personal\RD\Teamcity\DemoServer\DemoServer\bin\Debug\DemoServer.dll
+C:\Personal\RD\Teamcity\DemoServer\DemoServer\bin\Debug\DemoServer.pdb
+C:\Personal\RD\Teamcity\DemoServer\DemoServer\obj\Debug\DemoServer.dll
+C:\Personal\RD\Teamcity\DemoServer\DemoServer\obj\Debug\DemoServer.pdb
